@@ -9,22 +9,16 @@ This is a placeholder name for the application.
 Features:
 
 * Handle Environment Variables.
-
+  
   * Centrally Create Environment Variables.
   * Sync with server everytime an env is created.
   * Allow selective sharing of envs based on access.
   * Encrypted storage.
   * Secure method of envoking the envs from the servers.
   * Keep a hostory of environments.
-  * Deploy emvs automatically based on the code version.
+  * Deploy envs automatically based on the code version.
 
-* Sync Files Automatically with the server at certain intervals.
-
-  * Allow for Bi-directional sync.
-  * Selective Sync.
-  * Watch folder for changes.
-  * Encrypted data transfer.
-  * Async or synchronous syncing of files.
+## 
 
 ## Badges
 
